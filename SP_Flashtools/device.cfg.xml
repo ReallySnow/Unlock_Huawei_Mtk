@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+	<!--log_level: trace, debug, info, warning, error, fatal -->
+	<log_level>info</log_level>
+
+	<!--log_channel: none, uart, usb, uart_usb -->
+	<log_channel>uart</log_channel>
+
+	<!--end_stage: 1stDA, 2ndDA-->
+	<end_stage>2ndDA</end_stage>
+
+</config>
