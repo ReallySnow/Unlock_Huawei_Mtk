@@ -1,5 +1,5 @@
 # HUAWEI Changxiang bottom unlock and tools
-[简体中文](https://github.com/ReallySnow/Unlock_Huawei_Mtk/blob/ReadMe/README.md)[English]([简体中文](https://github.com/ReallySnow/Unlock_Huawei_Mtk/blob/ReadMe/README_EN.md))
+[简体中文](https://github.com/ReallySnow/Unlock_Huawei_Mtk/blob/ReadMe/README.md) | [English](https://github.com/ReallySnow/Unlock_Huawei_Mtk/blob/ReadMe/README_EN.md)
 
 ## Branch description
 * titan -> Enjoy 5
