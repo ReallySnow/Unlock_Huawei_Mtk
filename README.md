@@ -1,5 +1,5 @@
 # 华为畅享底层解锁及工具
-[简体中文](https://github.com/ReallySnow/Unlock_Huawei_Mtk/blob/ReadMe/README.md)[English]([简体中文](https://github.com/ReallySnow/Unlock_Huawei_Mtk/blob/ReadMe/README_EN.md))
+[简体中文](https://github.com/ReallySnow/Unlock_Huawei_Mtk/blob/ReadMe/README.md) | [English](https://github.com/ReallySnow/Unlock_Huawei_Mtk/blob/ReadMe/README_EN.md)
 
 ## 分支说明
 * titan  -> 畅享5
